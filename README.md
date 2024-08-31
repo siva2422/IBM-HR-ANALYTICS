@@ -1,4 +1,4 @@
-# IBM HR Data Analytics
+# Tableau-IBM HR Data Analytics
 
 This project involves analyzing HR data from IBM using Tableau to create insightful visualizations. The visualizations help in understanding various aspects of the workforce, such as gender distribution, average age, education fields, and income distribution.
 
